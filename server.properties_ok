@@ -1,0 +1,27 @@
+#Properties Config file
+#Thu Dec 27 11:55:24 EST 2018
+language=eng
+motd=PocketMine-MP Server
+server-port=19132
+white-list=off
+announce-player-achievements=on
+spawn-protection=16
+max-players=20
+spawn-animals=on
+spawn-mobs=on
+gamemode=0
+force-gamemode=off
+hardcore=off
+pvp=on
+difficulty=0
+generator-settings=
+level-name=world
+#level-seed=
+level-seed=110813
+level-type=DEFAULT
+enable-query=on
+enable-rcon=off
+rcon.password=7Z+RSNPOSv
+auto-save=on
+view-distance=8
+xbox-auth=on
